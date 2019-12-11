@@ -66,6 +66,7 @@ public class MyRecyclerViewAdapter extends RecyclerView.Adapter<MyRecyclerViewAd
 
         //adding dummy function
         void dummyFunction(){
+            int b=5;
             System.out.print("I do not do anything. I am here just to help you learn how git merge works");
         }
 
